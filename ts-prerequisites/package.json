@@ -1,0 +1,24 @@
+{
+  "name": "q2-turbine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "keygen": "ts-node ./keygen.ts",
+    "airdrop": "ts-node ./airdrop.ts",
+    "transfer": "ts-node ./transfer.ts",
+    "enroll": "ts-node ./enroll.ts"
+  },
+  "author": "Rushikesh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.31.0",
+    "@solana/web3.js": "^1.98.0",
+    "@types/node": "^22.13.13",
+    "bs58": "^6.0.0",
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
