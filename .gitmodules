@@ -1,6 +1,4 @@
 [submodule "escrow"]
 	path = escrow
 	url = https://github.com/rushikeshg25/escrow
-[submodule "amm"]
-	path = amm
-	url = https://github.com/rushikeshg25/amm
+
