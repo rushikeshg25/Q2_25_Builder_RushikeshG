@@ -3,6 +3,6 @@
 [submodule "amm"]
 	path = amm
 	url = https://github.com/rushikeshg25/amm
-[submodule "fairflow-capstone"]
-	path = fairflow-capstone
+[submodule "capstone/fairflow-capstone"]
+	path = capstone/fairflow-capstone
 	url = https://github.com/rushikeshg25/fairflow-capstone
